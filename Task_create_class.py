@@ -1,4 +1,4 @@
-#write a program to create a class Employee to id,name,age,email,phone
+#write a program to create a class Employee to store empId,name,age,email,phone
 
 class Employee:
     empId = None
